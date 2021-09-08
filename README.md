@@ -1,6 +1,6 @@
 # Spoils of War Official Website
 
-Spoils of War Official Website. Created by Critico
+Spoils of War Official Website.
 
 ### Website
 
