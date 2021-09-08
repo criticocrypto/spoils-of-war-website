@@ -1,4 +1,5 @@
 .App {
+  background-color: "#262626";
   text-align: center;
 }
 
@@ -21,7 +22,6 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
 }
 
 .App-link {
@@ -35,4 +35,18 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.mint {
+}
+
+.mint-dark {
+  background: #333;
+  color: white;
+}
+
+.mint-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px;
 }
