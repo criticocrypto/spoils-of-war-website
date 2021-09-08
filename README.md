@@ -2,8 +2,14 @@
 
 Spoils of War Official Website. Created by Critico
 
-### Website & Socials 
+### Website
 
 https://spoilsofwar.io
+
+### Twitter
+
 https://twitter.com/SpoilsOfWarNFT
+
+### Discord 
+
 https://discord.gg/8c23ZXxKY8
